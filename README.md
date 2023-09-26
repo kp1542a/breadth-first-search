@@ -1,2 +1,5 @@
 # breadth-first-search
-Maze Solver that uses Breadth First Search Algarthim
+  ## Inspired by Tech With Tim via Youtbue Channel
+
+Maze Solver that uses Breadth First Search Algorithm
+  Sorting through Queue Sorting Method
